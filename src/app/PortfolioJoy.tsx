@@ -165,10 +165,11 @@ const PROJECTS_DATA: Project[] = [
 ];
 
 const CERTIFICATES_DATA: Certificate[] = [
+   { title: "Skilhub Community x HMIF Universitas Syiah Kuala", issuer: "Memanfaatkan A.I yang bersifat Generative untuk Menciptakan Desain UI/UX", year: "2024", pdfUrl: "/sertifikat/Joy melvin Ginting  - Sertifikat Webinar SkilHub Community x HMIF Universitas Syiah Kuala.pdf" },
     { title: "Introduction To Computer (ITC) 2021", issuer: "ITC", year: "2021", pdfUrl: "/sertifikat/E Sertifikat Joy Melvin Ginting.pdf" },
     { title: "Amikom Computer Club (AMCC)", issuer: "Divisi Hardware Software", year: "2022", pdfUrl: "/sertifikat/E Sertifikat Joy Melvin Ginting AMCC.pdf" },
     { title: "IFCAMP 2023", issuer: "Building Apps with Framework Laravel", year: "2023", pdfUrl: "/sertifikat/Joy Melvin Ginting.pdf" },
-    { title: "Skilhub Community x HMIF Universitas Syiah Kuala", issuer: "Memanfaatkan A.I yang bersifat Generative untuk Menciptakan Desain UI/UX", year: "2024", pdfUrl: "/sertifikat/Joy melvin Ginting  - Sertifikat Webinar SkilHub Community x HMIF Universitas Syiah Kuala.pdf" },
+   
 ];
 
 // ==========================================
